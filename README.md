@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Lopes</h1>
 <h3 align="center">Student in Universidade do Minho</h3>
+<h3 align="center">Studying computer engineering </h3>
 
 - 📫 How to reach me **ricardolsantos11@gmail.com**
 
